@@ -8,7 +8,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Capturas de pantalla
 | Click Izquierdo | Click Derecho |
 | --- | --- |
-| ![Pantalla de inicio](click_izquierdo.png) | ![Menú de opciones](click_derecho.png) |
+| ![click izquierdo](click_izquierdo.png) | ![click derecho](click_derecho.png) |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
