@@ -5,7 +5,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 - MODO MOUSE
 - MODO RECONOCIMIENTO DE GESTOS
 
-## Capturas de pantalla
+## Gestos *(MODO MOUSE)*
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
 | ![click izquierdo](click_izquierdo.png) | ![click derecho](click_derecho.png) | ![mover mouse](mover_mouse.png) | ![no seguimiento](no_seguimiento.png) |
