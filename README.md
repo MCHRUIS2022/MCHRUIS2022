@@ -6,7 +6,8 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 - MODO RECONOCIMIENTO DE GESTOS
 
 ## Capturas de pantalla
-Agrega algunas capturas de pantalla de tu aplicación para que los visitantes puedan ver cómo se ve.
+![Pantalla de inicio](click_izquierdo.png)
+![Menú de opciones](click_derecho.png)
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
