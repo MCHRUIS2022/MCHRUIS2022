@@ -6,9 +6,9 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 - MODO RECONOCIMIENTO DE GESTOS
 
 ## Capturas de pantalla
-| Click Izquierdo | Click Derecho |
-| --- | --- |
-| ![click izquierdo](click_izquierdo.png) | ![click derecho](click_derecho.png) |
+| Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
+| --- | --- | --- | --- |
+| ![click izquierdo](click_izquierdo.png) | ![click derecho](click_derecho.png) | ![mover mouse](mover_mouse.png) | ![no seguimiento](no_seguimiento.png) |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
