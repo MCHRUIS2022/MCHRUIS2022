@@ -1,16 +1,25 @@
-### MCHRUIS2022👋
+# MCHRUIS2022
 
-<!--
-**MCHRUIS2022/MCHRUIS2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Descripción breve de tu aplicación y su funcionalidad.
 
-Here are some ideas to get you started:
+## Características
+- Característica 1
+- Característica 2
+- Característica 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Capturas de pantalla
+Agrega algunas capturas de pantalla de tu aplicación para que los visitantes puedan ver cómo se ve.
+
+## Instalación
+1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
+2. Instala en tu dispositivo
+
+## Licencia
+Incluye la licencia bajo la cual se distribuye tu aplicación (por ejemplo, MIT License)
+
+## Contribuciones
+Si deseas contribuir al desarrollo de esta aplicación, sigue estas instrucciones:
+1. Haz un fork del repositorio.
+2. Crea una rama para las modificaciones que desees hacer.
+3. Haz un pull request.
+
