@@ -1,11 +1,9 @@
 # MCHRUIS2022
-
-Descripción breve de tu aplicación y su funcionalidad.
+Este proyecto de pregrado ha sido realizado con el fin de generar una alternativa que facilite el desarrollo de un Docente o usuario común en una presentación realizada a una clase o un público específico. Todo esto mediante el desarollo de un algoritmo de aprendizaje profundo.
 
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3
+- MODO MOUSE
+- MODO RECONOCIMIENTO DE GESTOS
 
 ## Capturas de pantalla
 Agrega algunas capturas de pantalla de tu aplicación para que los visitantes puedan ver cómo se ve.
