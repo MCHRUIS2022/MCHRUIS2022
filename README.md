@@ -6,8 +6,8 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 - MODO RECONOCIMIENTO DE GESTOS
 
 ## Capturas de pantalla
-![Click Izquierdo](click_izquierdo.png) "Click Izquierdo"
-![Click Derecho](click_derecho.png) "Click Derecho"
+![Pantalla de inicio](click_izquierdo.png) "Pantala de inicio"
+![Menú de opciones](click_derecho.png) "Menú de opciones"
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
