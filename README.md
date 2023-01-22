@@ -1,11 +1,4 @@
-<img src="click_izquierdo.png" width="60" height="40">
-<img src="click_derecho.png" width="60" height="40">
-<img src="up_scroll.png" width="60" height="40">
-<img src="down_scroll.png" width="60" height="40">
-<img src="salir_de_mchr.png" width="60" height="40">
-<img src="mover_mouse.png" width="60" height="40">
-<img src="cambiar_a_modo_reconocimiento.png" width="60" height="40">
-<img src="no_seguimiento.png" width="60" height="40">
+
 # MCHRUIS2022
 Este proyecto de pregrado ha sido realizado con el fin de generar una alternativa que facilite el desarrollo de un Docente o usuario común en una presentación realizada a una clase o un público específico. Todo esto mediante el desarollo de un algoritmo de aprendizaje profundo.
 
@@ -20,7 +13,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
-| <img src="up_scroll.png" width="60" height="40"> | <img src="down_scroll.png" width="60" height="40"> | <img src="cambiar_a_modo_reconocimiento.png" width="60" height="40"> | <img src="salir_de_mchr.png" width="60" height="40"> |
+| <img src="up_scroll.png" width="100" height="100"> | <img src="down_scroll.png" width="100" height="100"> | <img src="cambiar_a_modo_reconocimiento.png" width="100" height="100"> | <img src="salir_de_mchr.png" width="100" height="100"> |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
