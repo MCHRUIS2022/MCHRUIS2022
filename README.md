@@ -8,11 +8,11 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Gestos *(MODO MOUSE)*
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
-| ![click izquierdo](click_izquierdo.png) | ![click derecho](click_derecho.png) | ![mover mouse](mover_mouse.png) | ![no seguimiento](no_seguimiento.png) |
+| ![click izquierdo](click_izquierdo.png){:width="600px" height="400px"} | ![click derecho](click_derecho.png){:width="600px" height="400px"} | ![mover mouse](mover_mouse.png){:width="600px" height="400px"} | ![no seguimiento](no_seguimiento.png){:width="600px" height="400px"} |
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
-| ![up scroll](up_scroll.png) | ![down scroll](down_scroll.png) | ![cambiar a reconocimiento](cambiar_a_modo_reconocimiento.png) | ![salir de mchr](salir_de_mchr.png) |
+| ![up scroll](up_scroll.png){:width="600px" height="400px"} | ![down scroll](down_scroll.png){:width="600px" height="400px"} | ![cambiar a reconocimiento](cambiar_a_modo_reconocimiento.png){:width="600px" height="400px"} | ![salir de mchr](salir_de_mchr.png){:width="600px" height="400px"} |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
