@@ -30,7 +30,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 | --- | --- | --- | --- |
 | <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
 
-## Gestos *(MODO RECONOCIMIENTO)*
+## 🤙 Gestos *(MODO RECONOCIMIENTO)* 👌
 | Silencio | Modo Mouse | F5 | ESC |
 | --- | --- | --- | --- |
 | <img src="images/silencio2.png" width="300" height="300"> | <img src="images/OK.png" width="300" height="300"> | <img src="images/ONE.png" width="300" height="300"> | <img src="images/DISLIKE.png" width="300" height="300"> |
@@ -44,7 +44,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 
 
-## Guía de instalación (Windows)
+## 👷 Guía de instalación (Windows) 🔧
 Para la instalación es necesario acceder al siguiente link de descarga: https://drive.google.com/file/d/10nLCzaP3M0eqhLqYXXXX_C5h6OnG6Z8yjWu/view?usp=sharing
 Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los archivos necesarios para la ejecución del mismo, sin embargo, es necesario instalar las librerías necesarias para el correcto funcionamiento de “MCHR”, para instalar los requerimientos mínimos sigue los siguientes pasos:
 
