@@ -53,27 +53,27 @@ Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los 
 
 2. Abre “Símbolo del sistema” ó “CMD”, de esta manera mediante el administrador de paquetes de Python “pip” instalaremos las librerías necesarias para la ejecución de MCHR, entonces hay que escribir cada una de las siguientes líneas en el símbolo del sistema:
 
-#PyQt5
+##PyQt5
 ```python 
 pip install PyQt5
 ```
-#Mediapipe
+##Mediapipe
 ```python 
 pip install mediapipe
 ```
-#Tensorflow
+##Tensorflow
 ```python 
 pip install tensorflow
 ```
-#OpenCV
+##OpenCV
 ```python 
 pip install opencv-python
 ```
-#Pynput
+##Pynput
 ```python 
 pip install pynput
 ```
-#Pyautogui
+##Pyautogui
 ```python 
 pip install pyautogui
 ```
