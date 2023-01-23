@@ -18,7 +18,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Gestos *(MODO RECONOCIMIENTO)*
 | Silencio | Modo Mouse | F5 | ESC |
 | --- | --- | --- | --- |
-| <img src="images/silencio.png" width="300" height="300"> | <img src="images/OK.png" width="300" height="300"> | <img src="images/ONE.png" width="300" height="300"> | <img src="images/DISLIKE.png" width="300" height="300"> |
+| <img src="images/silencio2.png" width="300" height="300"> | <img src="images/OK.png" width="300" height="300"> | <img src="images/ONE.png" width="300" height="300"> | <img src="images/DISLIKE.png" width="300" height="300"> |
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO |
 | --- | --- | --- | 
