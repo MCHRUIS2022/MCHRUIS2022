@@ -22,7 +22,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO |
 | --- | --- | --- | 
-| <img src="images/FIST.png" width="300" height="300"> | <img src="images/PEACE.png" width="300" height="300"> | <img src="images/LIKE.png" width="300" height="300"> | 
+| <img src="images/FIST.png" width="300" height="300"> | <img src="images/peace.png" width="300" height="300"> | <img src="images/LIKE.png" width="300" height="300"> | 
 
 
 
