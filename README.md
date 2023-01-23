@@ -9,7 +9,6 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 *	Mediapipe 
 *	Tensorflow 
 * OpenCV 
-*	Time ¿??
 *	Pynput 
 *	Pyautogui 
 *	Winsound 
