@@ -1,8 +1,8 @@
 
-# MCHRUIS2022
+# :cyclone: MCHRUIS2022 :cyclone:
 Este proyecto de pregrado ha sido realizado con el fin de generar una alternativa que facilite el desarrollo de un Docente o usuario común en una presentación realizada a una clase o un público específico. Todo esto mediante el desarollo de un algoritmo de aprendizaje profundo.
 
-## Requisitos mínimos
+## :star: Requisitos mínimos :star:
 *	Tener una Web Cam o dispositivo de salida de video.
 *	Python 3.10.7
 *	PyQt5 
@@ -17,11 +17,11 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 
 
-## Características
+## :milky_way: Características :milky_way:
 - MODO MOUSE
 - MODO RECONOCIMIENTO DE GESTOS
 
-## Gestos *(MODO MOUSE)*
+## :hand: Gestos *(MODO MOUSE)* 👊
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
 | <img src="images/click_izquierdo.png" width="300" height="300"> | <img src="images/click_derecho.png" width="300" height="300"> | <img src="images/mover_mouse.png" width="300" height="300"> | <img src="images/no_seguimiento.png" width="300" height="300"> |
@@ -77,9 +77,11 @@ pip install pynput
 ```python 
 pip install pyautogui
 ```
+3. Teniendo todas las librerías instaladas correctamente, es necesario entonces descomprimir el archivo MCHR.zip (Recomendación WinRaR para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el Escritorio).
 
-## Licencia
-Incluye la licencia bajo la cual se distribuye tu aplicación (por ejemplo, MIT License)
+
+
+
 
 ## Contribuciones
 Si deseas contribuir al desarrollo de esta aplicación, sigue estas instrucciones:
