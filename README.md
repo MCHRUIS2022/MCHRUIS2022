@@ -18,11 +18,11 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Gestos *(MODO RECONOCIMIENTO)*
 | Silencio | Modo Mouse | F5 | ESC |
 | --- | --- | --- | --- |
-| <img src="images/silencio.jpeg" width="300" height="300"> | <img src="images/ok.jpg" width="300" height="300"> | <img src="images/one.jpg" width="300" height="300"> | <img src="images/dislike.jpg" width="300" height="300"> |
+| <img src="images/silencio.png" width="300" height="300"> | <img src="images/ok.png" width="300" height="300"> | <img src="images/one.png" width="300" height="300"> | <img src="images/dislike.png" width="300" height="300"> |
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO |
 | --- | --- | --- | 
-| <img src="images/fist.jpg" width="300" height="300"> | <img src="images/peace.jpg" width="300" height="300"> | <img src="images/like.jpg" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
+| <img src="images/fist.png" width="300" height="300"> | <img src="images/peace.png" width="300" height="300"> | <img src="images/like.png" width="300" height="300"> | 
 
 
 
