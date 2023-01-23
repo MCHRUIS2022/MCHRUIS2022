@@ -13,7 +13,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
-| <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a_modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
+| <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
