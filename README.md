@@ -9,7 +9,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Gestos *(MODO MOUSE)*
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
-| <img src="click_izquierdo.png" width="300" height="300"> | <img src="click_derecho.png" width="300" height="300"> | <img src="mover_mouse.png" width="300" height="300"> | <img src="no_seguimiento.png" width="300" height="300"> |
+| <img src="images/click_izquierdo.png" width="300" height="300"> | <img src="click_derecho.png" width="300" height="300"> | <img src="mover_mouse.png" width="300" height="300"> | <img src="no_seguimiento.png" width="300" height="300"> |
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
