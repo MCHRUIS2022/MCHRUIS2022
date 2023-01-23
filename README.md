@@ -29,9 +29,33 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 
 
-## Instalación
-1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
-2. Instala en tu dispositivo
+## Guía de instalación (Windows)
+Para la instalación es necesario acceder al siguiente link de descarga: https://drive.google.com/file/d/10nLCzaP3M0eqhLqYXXXX_C5h6OnG6Z8yjWu/view?usp=sharing
+Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los archivos necesarios para la ejecución del mismo, sin embargo, es necesario instalar las librerías necesarias para el correcto funcionamiento de “MCHR”, para instalar los requerimientos mínimos sigue los siguientes pasos:
+
+1. Instala Python 3.10.7. Para esto dirígete al siguiente enlace: https://www.python.org/downloads/release/python-3107/ . En la instalación de Python no olvides marcar la siguiente casilla para agregar la ruta de instalación de Python 3.10 a la variable de entorno PATH del sistema. Esto permite ejecutar el intérprete de Python desde cualquier lugar en la línea de comandos sin tener que especificar la ruta completa al ejecutable. También permite que otros programas utilicen las librerías de Python instaladas en su sistema. Luego puedes continuar con una instalación normal de Python con el botón “Install Now”.
+<img src="images/pythonsetup.png" width="300" height="300">
+
+2. Abre “Símbolo del sistema” ó “CMD”, de esta manera mediante el administrador de paquetes de Python “pip” instalaremos las librerías necesarias para la ejecución de MCHR, entonces hay que escribir cada una de las siguientes líneas en el símbolo del sistema:
+
+```python 
+pip install PyQt5
+```
+```python 
+pip install mediapipe
+```
+```python 
+pip install tensorflow
+```
+```python 
+pip install opencv-python
+```
+```python 
+pip install pynput
+```
+```python 
+pip install pyautogui
+```
 
 ## Licencia
 Incluye la licencia bajo la cual se distribuye tu aplicación (por ejemplo, MIT License)
