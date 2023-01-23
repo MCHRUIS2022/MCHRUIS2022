@@ -9,11 +9,11 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## Gestos *(MODO MOUSE)*
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
-| <img src="images/click_izquierdo.png" width="300" height="300"> | <img src="click_derecho.png" width="300" height="300"> | <img src="mover_mouse.png" width="300" height="300"> | <img src="no_seguimiento.png" width="300" height="300"> |
+| <img src="images/click_izquierdo.png" width="300" height="300"> | <img src="images/click_derecho.png" width="300" height="300"> | <img src="images/mover_mouse.png" width="300" height="300"> | <img src="images/no_seguimiento.png" width="300" height="300"> |
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
-| <img src="up_scroll.png" width="300" height="300"> | <img src="down_scroll.png" width="300" height="300"> | <img src="cambiar_a_modo_reconocimiento.png" width="300" height="300"> | <img src="salir_de_mchr.png" width="300" height="300"> |
+| <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a_modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
 
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
