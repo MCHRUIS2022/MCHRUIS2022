@@ -15,6 +15,20 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 | --- | --- | --- | --- |
 | <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
 
+## Gestos *(MODO RECONOCIMIENTO)*
+| Silencio | Modo Mouse | F5 | ESC |
+| --- | --- | --- | --- |
+| <img src="images/silencio.jpeg" width="300" height="300"> | <img src="images/ok.jpg" width="300" height="300"> | <img src="images/one.jpg" width="300" height="300"> | <img src="images/dislike.jpg" width="300" height="300"> |
+
+| DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO |
+| --- | --- | --- | 
+| <img src="images/fist.jpg" width="300" height="300"> | <img src="images/peace.jpg" width="300" height="300"> | <img src="images/like.jpg" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
+
+
+
+
+
+
 ## Instalación
 1. Descarga el archivo .apk o .ipa (para aplicaciones móviles)
 2. Instala en tu dispositivo
