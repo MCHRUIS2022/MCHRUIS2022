@@ -2,6 +2,21 @@
 # MCHRUIS2022
 Este proyecto de pregrado ha sido realizado con el fin de generar una alternativa que facilite el desarrollo de un Docente o usuario común en una presentación realizada a una clase o un público específico. Todo esto mediante el desarollo de un algoritmo de aprendizaje profundo.
 
+## Requisitos mínimos
+•	Tener una Web Cam o dispositivo de salida de video.
+•	Python 3.10.7
+•	PyQt5 
+•	Mediapipe 
+•	Tensorflow 
+•	OpenCV 
+•	Time ¿??
+•	Pynput 
+•	Pyautogui 
+•	Winsound 
+•	WinRaR
+
+
+
 ## Características
 - MODO MOUSE
 - MODO RECONOCIMIENTO DE GESTOS
@@ -38,21 +53,27 @@ Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los 
 
 2. Abre “Símbolo del sistema” ó “CMD”, de esta manera mediante el administrador de paquetes de Python “pip” instalaremos las librerías necesarias para la ejecución de MCHR, entonces hay que escribir cada una de las siguientes líneas en el símbolo del sistema:
 
+#PyQt5
 ```python 
 pip install PyQt5
 ```
+#Mediapipe
 ```python 
 pip install mediapipe
 ```
+#Tensorflow
 ```python 
 pip install tensorflow
 ```
+#OpenCV
 ```python 
 pip install opencv-python
 ```
+#Pynput
 ```python 
 pip install pynput
 ```
+#Pyautogui
 ```python 
 pip install pyautogui
 ```
