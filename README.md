@@ -17,8 +17,8 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 
 ## :milky_way: Características :milky_way:
-- MODO MOUSE
-- MODO RECONOCIMIENTO DE GESTOS
+* **MODO MOUSE**
+* **MODO RECONOCIMIENTO DE GESTOS**
 
 ## :hand: Gestos *(MODO MOUSE)* 👊
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
