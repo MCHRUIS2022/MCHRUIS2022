@@ -51,7 +51,7 @@ Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los 
 1. **Instala Python 3.10.7.** Para esto dirígete al siguiente enlace: 
 https://www.python.org/downloads/release/python-3107/ 
 
-En la instalación de Python no olvides marcar la siguiente casilla para agregar la ruta de instalación de **Python 3.10** a la variable de entorno PATH del sistema. Esto permite ejecutar el intérprete de Python desde cualquier lugar en la línea de comandos sin tener que especificar la ruta completa al ejecutable. También permite que otros programas utilicen las librerías de Python instaladas en su sistema. Luego puedes continuar con una instalación normal de Python con el botón “Install Now”.
+En la instalación de Python no olvides marcar la siguiente casilla para agregar la ruta de instalación de **Python 3.10** a la variable de entorno PATH del sistema. Esto permite ejecutar el intérprete de Python desde cualquier lugar en la línea de comandos sin tener que especificar la ruta completa al ejecutable. También permite que otros programas utilicen las librerías de Python instaladas en su sistema. Luego puedes continuar con una instalación normal de Python con el botón **“Install Now”**.
 
 <img src="images/pythonsetup.png" width="300" height="200">
 
