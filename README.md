@@ -44,7 +44,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 
 
 ## 👷 Guía de instalación (Windows) 🔧
-Para la instalación es necesario acceder al siguiente link de descarga: https://drive.google.com/file/d/10nLCzaP3M0eqhLqYXXXX_C5h6OnG6Z8yjWu/view?usp=sharing
+Para la instalación es necesario acceder al siguiente link de descarga: https://drive.google.com/file/d/10ndLCzaP3M0eqhLqYXXXX_C5h6OnG6Z8yjWu/view?usp=sharing
 
 Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los archivos necesarios para la ejecución del mismo, sin embargo, es necesario instalar las librerías necesarias para el correcto funcionamiento de **“MCHR”**, para instalar los requerimientos mínimos sigue los siguientes pasos:
 
