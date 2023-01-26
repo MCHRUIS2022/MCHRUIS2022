@@ -20,7 +20,7 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 *	**Si es posible evitar fondos de enfoque con mucho ruido (personas de fondo distintas al expositor o usuario, destellos de luz, etc)**
 
 
-## :milky_way: Características :milky_way:
+## :milky_way: MODOS DE OPERACIÓN :milky_way:
 * **MODO MOUSE**
 * **MODO RECONOCIMIENTO DE GESTOS**
 
