@@ -55,7 +55,7 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 
 <img src="images/pythonsetup.png" width="300" height="200">
 
-2. Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR. Entonces hay que escribir cada una de las siguientes líneas en el **símbolo del sistema**:
+2. Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR. Allí hay que escribir cada una de las siguientes líneas:
 
 
 ![gif1cmd](images/cmd1.gif)
