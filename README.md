@@ -101,6 +101,14 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 | --- | --- |
 | <img src="images/pp1.png" width="300" height="200"> | <img src="images/pp2.png" width="300" height="200"> |
  
+ ## 🪛 Herramientas de la interfaz 🪛
+ 
+ En la interfaz de MCHR observaremos información importante que debemos comprender para hacer un correcto uso de la aplicación 
+ 
+ | Primera Ventana | 
+ | <img src="images/primera_ventana.png" width="300" height="200"> |
+ 
+ 
  
  
 ## Contribuciones
