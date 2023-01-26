@@ -1,6 +1,6 @@
 
 # :cyclone: MCHRUIS2022 :cyclone:
-Este proyecto de pregrado ha sido realizado con el fin de generar una alternativa que facilite el desarrollo de un Docente o usuario común en una presentación realizada a una clase o un público específico. Todo esto mediante el desarollo de un algoritmo de aprendizaje profundo.
+MCHR, es una aplicación orientada a generar una alternativa a la manipulación del ordenador, esto mediante un algoritmo de aprendizaje profundo encargado del reconocimiento de gestos y a un modelo ya entrenado encargado de la esqueletización de la mano de la librería mediapipe. Estos en conjunto nos permiten generar una alternativa para controlar del mouse y de más funciones necesarias al momento de realizar una presentación o hacer un uso cotidiano del ordenador.
 
 ## :star: Requisitos mínimos :star:
 *	**Tener una Web Cam o dispositivo de salida de video.**
@@ -116,7 +116,6 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 * Enumerado como **“4”** en la Figura 3, tenemos “Siguiente”. Este es un botón encargado de dirigir al usuario a la “Segunda Ventana”.
 
 
-# Primera Ventana
 | Segunda Ventana | 
 | --- |
 | <img src="images/segunda_ventana.png" width="500" height="400"> |
@@ -127,11 +126,19 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 * Enumerado como “4” en la Figura 4, tenemos el botón “Iniciar” el cual está encargado de iniciar el programa que permitirá manipular el mouse y demás atajos de nuestro ordenador.
  
  
- 
- 
-## Contribuciones
-Si deseas contribuir al desarrollo de esta aplicación, sigue estas instrucciones:
-1. Haz un fork del repositorio.
-2. Crea una rama para las modificaciones que desees hacer.
-3. Haz un pull request.
+## Funciones MCHR
+Las funciones del *Modo Mouse* y el *Modo Reconocimiento*, se encuentran descritas en las *páginas 8-13* del *Manual Guía de la aplicación*.
+
+Manual Guía (PDF): 
+[Nombre del PDF](images/manual_de_uso_de_aplicacion_mchr.pdf)
+
+
+
+
+
+
+
+
+
+
 
