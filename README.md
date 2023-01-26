@@ -40,8 +40,7 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO | SALIR DE MCHR | 
 | --- | --- | --- | --- |
-| <img src="images/FIST.png" width="300" height="200"> | <img src="images/peace.png" width="300" height="200"> | <img src="images/LIKE.png" width="300" height="200"> | 
-<img src="images/4.png" width="300" height="200"> |
+| <img src="images/FIST.png" width="300" height="200"> | <img src="images/peace.png" width="300" height="200"> | <img src="images/LIKE.png" width="300" height="200"> |  <img src="images/4.png" width="300" height="200"> |
 
 
 
