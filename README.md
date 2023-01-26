@@ -62,9 +62,9 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 2. Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR.  Allí hay que escribir cada una de las siguientes líneas:
 
 
-![gif1cmd](images/cmd1.gif){:width="200px" height="150px"}
+![gif1cmd](images/cmd1.gif){width="200px" height="150px"}
 
-![gif2cmd](images/cmd2.gif){:width="200px" height="150px"}
+![gif2cmd](images/cmd2.gif){width="200px" height="150px"}
 
 # PyQt5
 ```python 
