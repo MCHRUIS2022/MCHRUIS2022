@@ -93,9 +93,16 @@ pip install pyautogui
 3. Teniendo todas las librerías instaladas correctamente, es necesario entonces descomprimir el archivo **MCHR.zip** (Recomendación **WinRaR** para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el **Escritorio**).
 
 
+## 🏃 Como ejecutar la aplicación 🏃
 
+En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
 
-
+| Pantalla de carga y primera ventana de MCHR |
+| --- | --- |
+| <img src="images/pp1.png" width="300" height="200"> | <img src="images/pp2.png" width="300" height="200"> |
+ 
+ 
+ 
 ## Contribuciones
 Si deseas contribuir al desarrollo de esta aplicación, sigue estas instrucciones:
 1. Haz un fork del repositorio.
