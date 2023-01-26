@@ -97,7 +97,7 @@ pip install pyautogui
 
 En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
 
-| Pantalla de carga y primera ventana de MCHR |
+| Pantalla de carga y primera ventana de MCHR | --- |
 | --- | --- |
 | <img src="images/pp1.png" width="300" height="200"> | <img src="images/pp2.png" width="300" height="200"> |
  
