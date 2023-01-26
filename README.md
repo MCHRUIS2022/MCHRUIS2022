@@ -108,8 +108,8 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
  | Primera Ventana | 
  | --- |
  | <img src="images/primera_ventana.png" width="500" height="400"> |
- <span style="color: blue">"1"</span>
-* Enumerado como  en la Figura 3, tenemos la descripción corta sobre la herramienta y las demás imágenes.
+ 
+* Enumerado como <span style="color: blue">1</span> en la Figura 3, tenemos la descripción corta sobre la herramienta y las demás imágenes.
 * Enumerado como “2” en la Figura 3, tenemos los gestos del “Modo Reconocimiento de gestos”, estos buscan dar una vista previa al usuario sobre qué tipo de gestos fueron implementados.
 * Enumerado como “3” en la Figura 3, tenemos una vista previa del “Modo Mouse”, el cual está encargado de hacer el seguimiento de los puntos de la mano que luego serán claves para el movimiento del cursor y demás interacciones del mismo.
 * Enumerado como “4” en la Figura 3, tenemos “Siguiente”. Este es un botón encargado de dirigir al usuario a la “Segunda Ventana”.
