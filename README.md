@@ -107,7 +107,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
  
  | Primera Ventana | 
  | --- |
- | <img src="images/primera_ventana.png" width="300" height="200"> |
+ | <img src="images/primera_ventana.png" width="400" height="400"> |
  
  
  
