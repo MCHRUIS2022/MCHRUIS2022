@@ -27,20 +27,20 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 ## :hand: Gestos *(MODO MOUSE)* 👊
 | Click Izquierdo | Click Derecho | Mover Mouse | No Seguimiento |
 | --- | --- | --- | --- |
-| <img src="images/click_izquierdo.png" width="300" height="300"> | <img src="images/click_derecho.png" width="300" height="300"> | <img src="images/mover_mouse.png" width="300" height="300"> | <img src="images/no_seguimiento.png" width="300" height="300"> |
+| <img src="images/click_izquierdo.png" width="300" height="200"> | <img src="images/click_derecho.png" width="300" height="200"> | <img src="images/mover_mouse.png" width="300" height="200"> | <img src="images/no_seguimiento.png" width="300" height="200"> |
 
 | Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
 | --- | --- | --- | --- |
-| <img src="images/up_scroll.png" width="300" height="300"> | <img src="images/down_scroll.png" width="300" height="300"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="300"> | <img src="images/salir_de_mchr.png" width="300" height="300"> |
+| <img src="images/up_scroll.png" width="300" height="200"> | <img src="images/down_scroll.png" width="300" height="200"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="200"> | <img src="images/salir_de_mchr.png" width="300" height="200"> |
 
 ## 🤙 Gestos *(MODO RECONOCIMIENTO)* 👌
 | Silencio | Modo Mouse | F5 | ESC |
 | --- | --- | --- | --- |
-| <img src="images/silencio2.png" width="300" height="300"> | <img src="images/OK.png" width="300" height="300"> | <img src="images/ONE.png" width="300" height="300"> | <img src="images/DISLIKE.png" width="300" height="300"> |
+| <img src="images/silencio2.png" width="300" height="200"> | <img src="images/OK.png" width="300" height="200"> | <img src="images/ONE.png" width="300" height="200"> | <img src="images/DISLIKE.png" width="300" height="200"> |
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO |
 | --- | --- | --- | 
-| <img src="images/FIST.png" width="300" height="300"> | <img src="images/peace.png" width="300" height="300"> | <img src="images/LIKE.png" width="300" height="300"> | 
+| <img src="images/FIST.png" width="300" height="200"> | <img src="images/peace.png" width="300" height="200"> | <img src="images/LIKE.png" width="300" height="200"> | 
 
 
 
