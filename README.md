@@ -128,6 +128,9 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 ## Funciones MCHR
 Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran descritas en las **páginas 8-13** del **Manual Guía de la aplicación**.
 
+## Referencias ( PONER LINK AL DATASET USADO PARA EL RECONOCIMIENTO Y LINK DEL GITHUB DE MEDIAPIPE, a cada imagen ponerle una referencia
+
+
 Manual Guía **(PDF)**:  
 [Click aquí para ver el Manual en PDF](images/manual_de_uso_de_aplicacion_mchr.pdf)
 
