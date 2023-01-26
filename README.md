@@ -14,6 +14,10 @@ Este proyecto de pregrado ha sido realizado con el fin de generar una alternativ
 *	**Winsound** 
 *	**WinRaR**
 
+## :star: Recomendaciones :star:
+*	**Encontrarse a una distancia de la cámara de 0.6 [metros].**
+*	**Contar con una correcta iluminación que no genere ruido en la imagen, esto para que la inferencia sea rápida y efectiva al momento de requerir una acción**
+*	**Si es posible evitar fondos de enfoque con mucho ruido (personas de fondo distintas al expositor o usuario, destellos de luz, etc)**
 
 
 ## :milky_way: Características :milky_way:
