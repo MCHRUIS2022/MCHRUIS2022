@@ -109,19 +109,19 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 | <img src="images/primera_ventana.png" width="500" height="400"> |
  
 * Enumerado como **"1"** en la imagen anterior, tenemos la descripción corta sobre la herramienta y las demás imágenes.
-* Enumerado como **“2”** en la imagen anterior, tenemos los gestos del “Modo Reconocimiento de gestos”, estos buscan dar una vista previa al usuario sobre qué tipo de gestos fueron implementados.
-* Enumerado como **“3”** en la imagen anterior, tenemos una vista previa del “Modo Mouse”, el cual está encargado de hacer el seguimiento de los puntos de la mano que luego serán claves para el movimiento del cursor y demás interacciones del mismo.
-* Enumerado como **“4”** en la imagen anterior, tenemos “Siguiente”. Este es un botón encargado de dirigir al usuario a la “Segunda Ventana”.
+* Enumerado como **“2”** en la imagen anterior, tenemos los gestos del **Modo Reconocimiento de gestos**, estos buscan dar una vista previa al usuario sobre qué tipo de gestos fueron implementados.
+* Enumerado como **“3”** en la imagen anterior, tenemos una vista previa del **Modo Mouse**, el cual está encargado de hacer el seguimiento de los puntos de la mano que luego serán claves para el movimiento del cursor y demás interacciones del mismo.
+* Enumerado como **“4”** en la imagen anterior, tenemos **Siguiente**. Este es un botón encargado de dirigir al usuario a la **Segunda Ventana**.
 
 
 | Segunda Ventana | 
 | --- |
 | <img src="images/segunda_ventana.png" width="500" height="400"> |
  
-* Enumerado como **“1”** en la imagen anterior, tenemos la condición de funcionamiento de “MCHR”, la cual nos indica que para un correcto funcionamiento y reconocimiento deberíamos encontrarnos a 0.6 Metros de distancia de nuestra cámara o dispositivo de salida de video.
-* Enumerado como **“2”** en la imagen anterior, tenemos los gestos implementados en el “Modo Mouse”, con una descripción corta de su funcionamiento.
-* Enumerado como **“3”** en la imagen anterior, tenemos los gestos implementados en el “Modo Reconocimiento”, con una descripción corta de su funcionamiento.
-* Enumerado como **“4”** en la imagen anterior, tenemos el botón “Iniciar” el cual está encargado de iniciar el programa que permitirá manipular el mouse y demás atajos de nuestro ordenador.
+* Enumerado como **“1”** en la imagen anterior, tenemos la condición de funcionamiento de **MCHR**, la cual nos indica que para un correcto funcionamiento y reconocimiento deberíamos encontrarnos a **0.6 Metros** de distancia de nuestra cámara o dispositivo de salida de video.
+* Enumerado como **“2”** en la imagen anterior, tenemos los gestos implementados en el “**Modo Mouse**, con una descripción corta de su funcionamiento.
+* Enumerado como **“3”** en la imagen anterior, tenemos los gestos implementados en el **Modo Reconocimiento**, con una descripción corta de su funcionamiento.
+* Enumerado como **“4”** en la imagen anterior, tenemos el botón **Iniciar** el cual está encargado de iniciar el programa que permitirá manipular el mouse y demás atajos de nuestro ordenador.
  
  
 ## Funciones MCHR
