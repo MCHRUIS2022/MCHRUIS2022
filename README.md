@@ -58,13 +58,12 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 
 <img src="images/pythonsetup.png" width="300" height="200">
 
-2. Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR.  Allí hay que escribir cada una de las siguientes líneas:
+2. Es posible instalar cada una de las dependencias de manera automática y con las versiones usadas al momento de desarrollar el proyecto, para esto simplemente ejecuta el archivo **Requirements_Setup.bat**. En caso de querer instalarlas de manera manual -> Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR.  Allí hay que escribir cada una de las siguientes líneas:
 
 
 ![gif1cmd](images/cmd1.gif)
 
 ![gif2cmd](images/cmd2.gif)
-
 # PyQt5
 ```python 
 pip install PyQt5
