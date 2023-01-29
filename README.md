@@ -29,7 +29,7 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 | --- | --- | --- | --- |
 | <img src="images/click_izquierdo.png" width="300" height="200"> | <img src="images/click_derecho.png" width="300" height="200"> | <img src="images/mover_mouse.png" width="300" height="200"> | <img src="images/no_seguimiento.png" width="300" height="200"> |
 
-| Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | Salir de MCHR |
+| Desplazarse arriba | Desplazarse abajo | Cambiar a modo RECONOCIMIENTO | DETENER MCHR |
 | --- | --- | --- | --- |
 | <img src="images/up_scroll.png" width="300" height="200"> | <img src="images/down_scroll.png" width="300" height="200"> | <img src="images/cambiar_a _modo_reconocimiento.png" width="300" height="200"> | <img src="images/salir_de_mchr.png" width="300" height="200"> |
 
@@ -38,7 +38,7 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 | --- | --- | --- | --- |
 | <img src="images/silencio2.png" width="300" height="200"> | <img src="images/OK.png" width="300" height="200"> | <img src="images/ONE.png" width="300" height="200"> | <img src="images/DISLIKE.png" width="300" height="200"> |
 
-| DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO | SALIR DE MCHR | 
+| DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO | DETENER MCHR | 
 | --- | --- | --- | --- |
 | <img src="images/FIST.png" width="300" height="200"> | <img src="images/peace.png" width="300" height="200"> | <img src="images/LIKE.png" width="300" height="200"> |  <img src="images/4.png" width="300" height="200"> |
 
