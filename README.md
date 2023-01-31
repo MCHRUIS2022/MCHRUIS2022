@@ -130,8 +130,15 @@ Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran des
 ## Referencias ( PONER LINK AL DATASET USADO PARA EL RECONOCIMIENTO Y LINK DEL GITHUB DE MEDIAPIPE, a cada imagen ponerle una referencia
 
 
-Manual Guía **(PDF)**:  
+##Manual Guía **(PDF)**:  
 [Click aquí para ver el Manual en PDF](images/manual_de_uso_de_aplicacion_mchr.pdf)
+
+
+##Modelos entrenados en **Colab**
+Modelo 1 : [Click aquí para ver el los modelos en colab][ResNet50](URL)
+Modelo 2 : [Click aquí para ver el los modelos en colab][MobilNetv1](URL)
+Modelo 1 : [Click aquí para ver el los modelos en colab][Custom](URL)
+
 
 
 
