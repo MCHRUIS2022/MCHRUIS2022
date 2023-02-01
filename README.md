@@ -127,7 +127,8 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 ## Funciones MCHR
 Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran descritas en las **páginas 8-13** del **Manual Guía de la aplicación**.
 
-## Referencias ( PONER LINK AL DATASET USADO PARA EL RECONOCIMIENTO Y LINK DEL GITHUB DE MEDIAPIPE, a cada imagen ponerle una referencia
+## Referencias 
+Link del DataSet usado: 
 
 
 ##Manual Guía **(PDF)**:  
@@ -135,9 +136,9 @@ Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran des
 
 
 ##Modelos entrenados en **Colab**
-Modelo 1 : [Click aquí para ver el los modelos en colab][ResNet50](https://colab.research.google.com/drive/1CSXaRBbjOonK1VZMjUEiAZDQaI2VLxHY?usp=sharing)
-Modelo 2 : [Click aquí para ver el los modelos en colab][MobilNetv1](URL)
-Modelo 3 : [Click aquí para ver el los modelos en colab][Custom](URL)
+Modelo 1 : [ResNet50](https://colab.research.google.com/drive/1CSXaRBbjOonK1VZMjUEiAZDQaI2VLxHY?usp=sharing)
+Modelo 2 : [MobilNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvLr8L9ct0IoGpIJ51Xx9?usp=sharing)
+Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUpwga_rzLeVMrqY?usp=sharing)
 
 
 
