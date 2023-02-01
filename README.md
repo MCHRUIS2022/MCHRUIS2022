@@ -128,7 +128,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran descritas en las **páginas 8-13** del **Manual Guía de la aplicación**.
 
 ## Referencias 
-Link del DataSet usado: 
+Link del DataSet usado: [HaGRID DataSet](https://www.kaggle.com/datasets/innominate817/hagrid-classification-512p?select=hagrid-classification-512p) 
 
 
 ## Manual Guía **(PDF)**:  
