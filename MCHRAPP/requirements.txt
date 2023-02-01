@@ -1,0 +1,7 @@
+PyQt5==5.15.7
+mediapipe==0.9.0.1
+opencv-python==4.7.0.68
+Pillow==9.4.0
+setuptools==63.2.0
+tensorboard==2.11.2
+protobuf==3.19.6
