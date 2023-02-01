@@ -131,11 +131,11 @@ Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran des
 Link del DataSet usado: 
 
 
-##Manual Guía **(PDF)**:  
+## Manual Guía **(PDF)**:  
 [Click aquí para ver el Manual en PDF](images/manual_de_uso_de_aplicacion_mchr.pdf)
 
 
-##Modelos entrenados en **Colab**
+## Modelos entrenados en **Colab**
 Modelo 1 : [ResNet50](https://colab.research.google.com/drive/1CSXaRBbjOonK1VZMjUEiAZDQaI2VLxHY?usp=sharing)
 Modelo 2 : [MobilNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvLr8L9ct0IoGpIJ51Xx9?usp=sharing)
 Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUpwga_rzLeVMrqY?usp=sharing)
