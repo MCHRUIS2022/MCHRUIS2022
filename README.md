@@ -13,7 +13,7 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 *	**Pyautogui** 
 *	**Winsound** 
 *	**WinRaR**
-
+* **YOLOv8**
 ## :star: Recomendaciones :star:
 *	**Encontrarse a una distancia de la cámara de 0.6 [metros].**
 *	**Contar con una correcta iluminación que no genere ruido en la imagen, esto para que la inferencia sea rápida y efectiva al momento de requerir una acción**
@@ -58,42 +58,18 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 
 <img src="images/pythonsetup.png" width="300" height="200">
 
-2. Es posible instalar cada una de las dependencias de manera automática y con las versiones usadas al momento de desarrollar el proyecto, para esto simplemente ejecuta el archivo **Requirements_Setup.bat**. En caso de querer instalarlas de manera manual -> Abre **Símbolo del sistema** ó **CMD**, de esta manera mediante el administrador de paquetes de Python **pip** instalaremos las librerías necesarias para la ejecución de MCHR.  Allí hay que escribir cada una de las siguientes líneas:
+
+2. Es necesario entonces descomprimir el archivo **MCHR.zip** (Recomendación **WinRaR** para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el **Escritorio**).
+
+3. Es posible instalar cada una de las dependencias de manera automática y con las versiones usadas al momento de desarrollar el proyecto, para esto simplemente ejecuta el archivo **Requirements_Setup.bat**.
 
 
-![gif1cmd](images/cmd1.gif)
-
-![gif2cmd](images/cmd2.gif)
-# PyQt5
-```python 
-pip install PyQt5
-```
-# Mediapipe
-```python 
-pip install mediapipe
-```
-# Tensorflow
-```python 
-pip install tensorflow
-```
-# OpenCV
-```python 
-pip install opencv-python
-```
-# Pynput
-```python 
-pip install pynput
-```
-# Pyautogui
-```python 
-pip install pyautogui
-```
-3. Teniendo todas las librerías instaladas correctamente, es necesario entonces descomprimir el archivo **MCHR.zip** (Recomendación **WinRaR** para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el **Escritorio**).
+![gif1cmd](images/INSTALACION.gif)
 
 
 ## 🏃 Como ejecutar la aplicación 🏃
 
-En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
+En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR2.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
 
 | Pantalla de carga |  Primera ventana de MCHR |
 | --- | --- |
