@@ -36,11 +36,11 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 ## 🤙 Gestos *(MODO RECONOCIMIENTO)* 👌
 | Silencio | Modo Mouse | F5 | ESC |
 | --- | --- | --- | --- |
-| <img src="images/silencio2.png" width="300" height="200"> | <img src="images/OK.png" width="300" height="200"> | <img src="images/ONE.png" width="300" height="200"> | <img src="images/DISLIKE.png" width="300" height="200"> |
+| <img src="images/MUTE.png" width="300" height="200"> | <img src="images/MODO_MOUSE.png" width="300" height="200"> | <img src="images/F5.png" width="300" height="200"> | <img src="images/ESC.png" width="300" height="200"> |
 
 | DERECHA | IZQUIERDA | ON/OFF RECONOCIMIENTO | DETENER MCHR | 
 | --- | --- | --- | --- |
-| <img src="images/FIST.png" width="300" height="200"> | <img src="images/peace.png" width="300" height="200"> | <img src="images/LIKE.png" width="300" height="200"> |  <img src="images/4.png" width="300" height="200"> |
+| <img src="images/DERECHA.png" width="300" height="200"> | <img src="images/IZQUIERDA.png" width="300" height="200"> | <img src="images/ON_OFF_RECOGNITION.png" width="300" height="200"> |  <img src="images/DETENER_MCHR.png" width="300" height="200"> |
 
 
 
