@@ -69,7 +69,7 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 
 ## 🏃 Como ejecutar la aplicación 🏃
 
-En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR2.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
+En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat” y si cumplimos con todos los requisitos deberíamos observar una pantalla de carga y el primer plano de la aplicación como podemos ver a continuación.
 
 | Pantalla de carga |  Primera ventana de MCHR |
 | --- | --- |
@@ -115,7 +115,7 @@ Link del DataSet usado: [HaGRID DataSet](https://www.kaggle.com/datasets/innomin
 Modelo 1 : [ResNet50](https://colab.research.google.com/drive/1CSXaRBbjOonK1VZMjUEiAZDQaI2VLxHY?usp=sharing)  
 Modelo 2 : [MobilNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvLr8L9ct0IoGpIJ51Xx9?usp=sharing)  
 Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUpwga_rzLeVMrqY?usp=sharing)  
-
+Modelo 4 : [YoloV8]()
 
 
 
