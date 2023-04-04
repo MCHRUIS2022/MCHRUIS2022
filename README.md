@@ -73,7 +73,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 
 | Pantalla de carga |  Primera ventana de MCHR |
 | --- | --- |
-| <img src="images/pp1.png" width="300" height="200"> | <img src="images/ppp2.png" width="300" height="200"> |
+| <img src="images/pp1.png" width="300" height="200"> | <img src="images/pppp2.png" width="300" height="200"> |
  
  ## 🔧 Herramientas de la interfaz 🔧
  
