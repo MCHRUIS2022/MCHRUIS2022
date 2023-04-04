@@ -108,7 +108,7 @@ Link del DataSet usado: [HaGRID DataSet](https://www.kaggle.com/datasets/innomin
 
 
 ## Manual Guía **(PDF)**:  
-[Click aquí para ver el Manual en PDF](images/manual_de_uso_de_aplicacion_mchr.pdf)
+[Click aquí para ver el Manual en PDF](images/manual_de_uso_mchr.pdf)
 
 
 ## Modelos entrenados en **Colab**
