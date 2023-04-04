@@ -82,7 +82,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 
 | Primera Ventana | 
 | --- |
-| <img src="images/pprimera_ventana.png" width="500" height="400"> |
+| <img src="images/ppprimera_ventana.png" width="500" height="400"> |
  
 * Enumerado como **"1"** en la imagen anterior, tenemos la descripción corta sobre la herramienta y las demás imágenes.
 * Enumerado como **“2”** en la imagen anterior, tenemos los gestos del **Modo Reconocimiento de gestos**, estos buscan dar una vista previa al usuario sobre qué tipo de gestos fueron implementados.
