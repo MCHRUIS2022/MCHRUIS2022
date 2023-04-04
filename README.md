@@ -73,7 +73,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 
 | Pantalla de carga |  Primera ventana de MCHR |
 | --- | --- |
-| <img src="images/pp1.png" width="300" height="200"> | <img src="images/pp2.png" width="300" height="200"> |
+| <img src="images/pp1.png" width="300" height="200"> | <img src="images/ppp2.png" width="300" height="200"> |
  
  ## 🔧 Herramientas de la interfaz 🔧
  
@@ -82,7 +82,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 
 | Primera Ventana | 
 | --- |
-| <img src="images/primera_ventana.png" width="500" height="400"> |
+| <img src="images/pprimera_ventana.png" width="500" height="400"> |
  
 * Enumerado como **"1"** en la imagen anterior, tenemos la descripción corta sobre la herramienta y las demás imágenes.
 * Enumerado como **“2”** en la imagen anterior, tenemos los gestos del **Modo Reconocimiento de gestos**, estos buscan dar una vista previa al usuario sobre qué tipo de gestos fueron implementados.
@@ -92,7 +92,7 @@ En la carpeta de instalación de MCHR, se debe ejecutar el archivo “MCHR.bat�
 
 | Segunda Ventana | 
 | --- |
-| <img src="images/segunda_ventana.png" width="500" height="400"> |
+| <img src="images/ssegunda_ventana.png" width="500" height="400"> |
  
 * Enumerado como **“1”** en la imagen anterior, tenemos la condición de funcionamiento de **MCHR**, la cual nos indica que para un correcto funcionamiento y reconocimiento deberíamos encontrarnos a **0.6 Metros** de distancia de nuestra cámara o dispositivo de salida de video.
 * Enumerado como **“2”** en la imagen anterior, tenemos los gestos implementados en el **Modo Mouse**, con una descripción corta de su funcionamiento.
