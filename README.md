@@ -105,6 +105,7 @@ Las funciones del **Modo Mouse** y el **Modo Reconocimiento**, se encuentran des
 
 ## Referencias 
 Link del DataSet usado: 
+
 [HaGRID DataSet](https://www.kaggle.com/datasets/innominate817/hagrid-classification-512p?select=hagrid-classification-512p) 
 
 [DataSet para entrenamiento YOLOV8](https://drive.google.com/drive/folders/1TSrakKjMMILNfUa8KeRd8A4_6WvjCv60?usp=sharing) 
