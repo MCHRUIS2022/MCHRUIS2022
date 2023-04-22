@@ -7,15 +7,24 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 *	**Python 3.10.7**
 *	**PyQt5**
 *	**Mediapipe** 
-*	**Tensorflow** 
+*	**Ultralytics** 
 * **OpenCV** 
 *	**Pynput** 
 *	**Pyautogui** 
 *	**Winsound** 
 *	**WinRaR**
-* **YOLOv8**
+
+
+## :zap: Recomendación de Hardware :zap:
+Para la prueba de funcionamiento de la aplicación se usó un portátil con las siguientes especificaciones
+| Hardware para la prueba de MCHR |
+| --- |
+| <img src="images/Hardwr.png" width="300" height="200"> |
+
+Por esto se recomienda un hardware similar o superior para garantizar el correcto funcionamiento de **MCHR**.
+
 ## :star: Recomendaciones :star:
-*	**Encontrarse a una distancia de la cámara de 0.6 [metros].**
+*	**Encontrarse a una distancia de la cámara de 1 [metros].**
 *	**Contar con una correcta iluminación que no genere ruido en la imagen, esto para que la inferencia sea rápida y efectiva al momento de requerir una acción**
 *	**Si es posible evitar fondos de enfoque con mucho ruido (personas de fondo distintas al expositor o usuario, destellos de luz, etc)**
 
@@ -47,9 +56,10 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 
 
 ## 👷 Guía de instalación (Windows) 🔧
-Para la instalación es necesario acceder al siguiente link de descarga: https://drive.google.com/drive/folders/1uhSPw3eL6WwMeCyOUweMhpeVK0je6cqL?usp=sharing
+Para la instalación es necesario acceder al siguiente link de descarga: 
+https://drive.google.com/drive/folders/1606vtf7Dre8soAcBhRjnkuP-qnsun41B?usp=share_link
 
-Dentro de este encontrarás un archivo llamado MCHR.zip este contiene todos los archivos necesarios para la ejecución del mismo, sin embargo, es necesario instalar las librerías necesarias para el correcto funcionamiento de **“MCHR”**, para instalar los requerimientos mínimos sigue los siguientes pasos:
+Dentro de este encontrarás un archivo llamado MCHR.rar este contiene todos los archivos necesarios para la ejecución del mismo, sin embargo, es necesario instalar las librerías necesarias para el correcto funcionamiento de **“MCHR”**, para instalar los requerimientos mínimos sigue los siguientes pasos:
 
 1. **Instala Python 3.10.7.** Para esto dirígete al siguiente enlace: 
 https://www.python.org/downloads/release/python-3107/ 
@@ -59,7 +69,7 @@ En la instalación de Python no olvides marcar la siguiente casilla para agregar
 <img src="images/pythonsetup.png" width="300" height="200">
 
 
-2. Es necesario entonces descomprimir el archivo **MCHR.zip** (Recomendación **WinRaR** para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el **Escritorio**).
+2. Es necesario entonces descomprimir el archivo **MCHR.rar** (Recomendación **WinRaR** para extraer el paquete) dentro de cualquier carpeta o directorio (Para mayor facilidad sugerimos el **Escritorio**).
 
 3. Es posible instalar cada una de las dependencias de manera automática y con las versiones usadas al momento de desarrollar el proyecto, para esto simplemente ejecuta el archivo **Requirements_Setup.bat**.
 
