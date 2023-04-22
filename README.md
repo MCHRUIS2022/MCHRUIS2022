@@ -110,13 +110,17 @@ DataSet usados en el entrenamiento:
 
 [DataSet para entrenamiento YOLOV8](https://drive.google.com/drive/folders/1TSrakKjMMILNfUa8KeRd8A4_6WvjCv60?usp=sharing) 
 
+[DataSet para entrenamiento modelo CUSTOM](https://drive.google.com/drive/folders/1qn3UEgpCeTRv1qaEUbSl2s2O5lZFnXdo?usp=sharing)
+
+[DataSet para entrenamiento de ResNet50 y MobileNetV1](https://drive.google.com/drive/folders/1DWAVJ8IZ-VxPYXNr6jvMykw813etPgNw?usp=sharing)
+
 ## Manual Guía **(PDF)**:  
 [Click aquí para ver el Manual en PDF](images/manual_de_uso_mchr.pdf)
 
 
 ## Modelos entrenados en **Colab**
 Modelo 1 : [ResNet50](https://colab.research.google.com/drive/1CSXaRBbjOonK1VZMjUEiAZDQaI2VLxHY?usp=sharing)  
-Modelo 2 : [MobilNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvLr8L9ct0IoGpIJ51Xx9?usp=sharing)  
+Modelo 2 : [MobileNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvLr8L9ct0IoGpIJ51Xx9?usp=sharing)  
 Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUpwga_rzLeVMrqY?usp=sharing)  
 Modelo 4 : [YoloV8](https://colab.research.google.com/drive/11JK3w8RwnQeheKwCwyf9dzJMxid7iTQk?usp=sharing)
 
