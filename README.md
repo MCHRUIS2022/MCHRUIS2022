@@ -19,7 +19,7 @@ MCHR, es una aplicación orientada a generar una alternativa a la manipulación 
 Para la prueba de funcionamiento de la aplicación se usó un portátil con las siguientes especificaciones
 | Hardware para la prueba de MCHR |
 | --- |
-| <img src="images/hardwr.png" width="300" height="200"> |
+| <img src="images/hardwr.png" width="1000" height="200"> |
 
 Por esto se recomienda un hardware similar o superior para garantizar el correcto funcionamiento de **MCHR**.
 
