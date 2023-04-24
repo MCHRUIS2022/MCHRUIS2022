@@ -134,11 +134,12 @@ Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUp
 Modelo 4 : [YoloV8](https://colab.research.google.com/drive/11JK3w8RwnQeheKwCwyf9dzJMxid7iTQk?usp=sharing)
 
 ## Prueba de MCHR
+El siguiente video muestra una prueba de MCHR...
 
-![MCHRTest](images/VIDEO_PRUEBA_MCHR.mp4)
+https://user-images.githubusercontent.com/123276766/234005687-3d19e142-3e14-4742-8359-1e0d2d28b608.mp4
 
 
-La prueba de MCHR la puedes encontrar en [YouTube](https://youtu.be/VVPo0IWh6co)  
+También puedes digirte a [YouTube](https://youtu.be/VVPo0IWh6co) donde lo podrás encontrar con mejor calidad visual.  
 
 
 
