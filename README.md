@@ -1,21 +1,3 @@
-<style>
-.video-container {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-}
-
-.video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
-
 # :cyclone: MCHRUIS2022 :cyclone:
 MCHR, es una aplicación orientada a generar una alternativa a la manipulación del ordenador, esto mediante un algoritmo de aprendizaje profundo encargado del reconocimiento de gestos y a un modelo ya entrenado encargado de la esqueletización de la mano de la librería mediapipe. Estos en conjunto nos permiten generar una alternativa para controlar del mouse y de más funciones necesarias al momento de realizar una presentación o hacer un uso cotidiano del ordenador.
 
@@ -153,9 +135,7 @@ Modelo 4 : [YoloV8](https://colab.research.google.com/drive/11JK3w8RwnQeheKwCwyf
 
 ## Prueba de MCHR
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VVPo0IWh6co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
-</div>
+![MCHRTest](images/VIDEO_PRUEBA_MCHR.mp4)
 
 
 La prueba de MCHR la puedes encontrar en [YouTube](https://youtu.be/VVPo0IWh6co)  
