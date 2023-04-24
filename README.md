@@ -134,6 +134,8 @@ Modelo 2 : [MobileNetv1](https://colab.research.google.com/drive/1izLoCM4b4xdJvL
 Modelo 3 : [Custom](https://colab.research.google.com/drive/1yMgmy6W3P7BwWbJgVUpwga_rzLeVMrqY?usp=sharing)  
 Modelo 4 : [YoloV8](https://colab.research.google.com/drive/11JK3w8RwnQeheKwCwyf9dzJMxid7iTQk?usp=sharing)
 
+## Prueba de MCHR
+La prueba de MCHR la puedes encontrar en [YouTube](https://youtu.be/VVPo0IWh6co)  
 
 
 
